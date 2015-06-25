@@ -1,4 +1,4 @@
-package com.adhi.http;
+package com.abhi.http;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;

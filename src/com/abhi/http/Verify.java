@@ -1,11 +1,9 @@
-package com.adhi.http;
+package com.abhi.http;
 
-import com.sun.xml.internal.xsom.impl.Ref;
 import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.entity.ContentType;
 
 import java.io.IOException;
-import java.net.HttpCookie;
 import java.net.URISyntaxException;
 
 /**
